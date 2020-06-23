@@ -2,6 +2,6 @@
 
 This is a really awesome website
 
-Updated locally
+## Purpose 
 
-Update made again
+This file is just a readme file.
